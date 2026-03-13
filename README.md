@@ -10,6 +10,8 @@
 [![License: Apache 2.0][license-img]][license]
 [![Star on GitHub][stars-img]][stars] [![Discord][discord-img]][discord]
 
+English | [简体中文](./README.zh-CN.md)
+
 # ToolHive - simplify and secure MCP servers
 
 **Run any Model Context Protocol (MCP) server: securely, instantly, anywhere.**
